@@ -22,7 +22,7 @@ python extractor.py
 ```
 - O terminal irá solicitar o link compartilhado do mediafire, cole-o e aperte 'Enter'.
 
-**3. Resultados:**
+**3. Resultado:**
 
 - Será criado um arquivo chamado 'links.txt', onde conterá os links inidividuais do grupo compartilhado.
 
