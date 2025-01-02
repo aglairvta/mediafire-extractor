@@ -19,7 +19,7 @@ git clone https://github.com/aglairvta/mediafire-extractor.git
 
 - Abra a diretório onde realizou o clone
 ```
-cd mediafire-links-extractor
+cd mediafire-extractor
 ```
 - Execute o codigo python
 ```
